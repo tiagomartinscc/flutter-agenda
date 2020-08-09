@@ -17,7 +17,17 @@ Conceitos aprendidos:
 ## Sobre o App
 
 Tela inicial do App
-<img src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996740.png" />
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996740.png" />
+
+Agenda iniciada sem nenhum contato da primeira vez.
+
+Ao clicar no botão adicionar no canto inferior direito o app direciona para página de cadastro do contato.
+
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996744.png" />
+
+
+
+
 
 
 ## Getting Started

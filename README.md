@@ -25,6 +25,65 @@ Ao clicar no botão adicionar no canto inferior direito o app direciona para pá
 
 <img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996744.png" />
 
+Título da página é o nome do contato
+
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996766.png" />
+
+Após salvar o contato, app volta para página inicial mostrando uma lista de contatos.
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996872.png" />
+
+Se clicar em um contato, aparece as seguintes opções:
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996878.png" />
+
+Clicando em ligar, será direcionado para o telefone para ligar ou salvar o contato na agenda do telefone.
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996883.png" />
+
+Se clicar em Editar, poderá alterar as informações do contato.
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996896.png" />
+
+Clicando ia foto, abrirá a câmera do dispositivo para salvar uma foto.
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996913.png" />
+
+Foto salva no contato
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596996940.png" />
+
+Se tentar sair da página sem salvar as alterações é exibido o seguinte alerta
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596997901.png" />
+
+Após salvar a imagem é exibida na lista
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596997004.png" />
+
+Clicando no botão superior direito é possível ordenar a lista de contatos
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596997024.png" />
+
+Exibição em ordem alfabética (A-Z)
+<img style="width: 300px" src="https://github.com/tiagomartinscc/flutter-agenda/raw/master/doc/Screenshot_1596997029.png" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
